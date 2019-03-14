@@ -7,3 +7,4 @@ Git tracks changes.
 emmm
 123
 456
+Creating a new branch is quick.

@@ -1,0 +1,6 @@
+class student
+{
+    int age;
+    int number;
+    string name;
+}
